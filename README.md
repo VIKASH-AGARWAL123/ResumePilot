@@ -1,5 +1,4 @@
-# 🤖 AI Resume Analyzer
-
+# 🤖 ResumePilot
 An AI-powered web application that analyzes resumes, calculates ATS compatibility, extracts skills, compares resumes with job descriptions, and provides personalized improvement suggestions using Large Language Models (LLMs).
 
 ---
